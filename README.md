@@ -1,6 +1,6 @@
 # HermKura™ Trademark Declaration  
 **Timestamp:** 2025-10-17T06:16:00 CST  
-**Jurisdictions:** United States, United Kingdom, Mexico, Spain  
+**Jurisdictions:** United Kingdom  
 
 ---
 
