@@ -15,8 +15,8 @@ Academic and independent research in ludology, including:
 - Original logical-symbolic systems, including unique logic, symbols, and operations  
 - Symbolic/mystical and metaphysical principles  
 - Gnostic-informatic syncretisms  
-- Jungian psychology
-- Mathematical-Physics & Cosmological Demonstrations
+- Jungian psychology  
+- Mathematical-Physics & Cosmological Demonstrations  
 
 ### 🧠 Game Design and Development  
 Design and development of video games across all genres and platforms, incorporating:  
@@ -33,6 +33,18 @@ Activities include:
 - Streaming, video production, selfies, photo sessions  
 - Comedy, cosplay, and visual marketing of personal image  
 
+### 🎬 Film-Making  
+Creation and distribution of films under HermKura™, including:  
+- Explicit and semi-explicit romantic consensual movies  
+- Genres: comedy, action, science fiction, fantasy  
+- Roles: Actor, Screenwriter, Director, Producer  
+
+### 🎵 Music Composition & Performance  
+Musical activities under HermKura™, including:  
+- Composition and performance across all genres  
+- Music videos and live shows  
+- Integration of AI and non-AI methods  
+
 ---
 
 ## Trademark Classes (Strictly Necessary)
@@ -42,7 +54,7 @@ The HermKura™ mark is protected under the following international trademark cl
 | Class | Description |
 |-------|-------------|
 | 9     | Software, video games, downloadable content, electronic publications |
-| 41    | Education, training, entertainment services including eSports, streaming, podcasts, conferences |
+| 41    | Education, training, entertainment services including eSports, streaming, podcasts, conferences, music and film production |
 | 42    | Scientific and technological services, game development, AI systems, quantum computing research |
 
 These classes are selected to ensure precise and minimal coverage aligned with HermKura’s core activities.
