@@ -1,0 +1,1 @@
+# HermKura-Trademark-Declaration
