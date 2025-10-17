@@ -15,7 +15,8 @@ Academic and independent research in ludology, including:
 - Original logical-symbolic systems, including unique logic, symbols, and operations  
 - Symbolic/mystical and metaphysical principles  
 - Gnostic-informatic syncretisms  
-- Jungian psychology  
+- Jungian psychology
+- Mathematical-Physics & Cosmological Demonstrations
 
 ### 🧠 Game Design and Development  
 Design and development of video games across all genres and platforms, incorporating:  
